@@ -1,20 +1,21 @@
 # Python-Machine-Learning
+
  Examples using a machine learning library in python
- 
- ## Algorithms used
- 
- - Decision Tree Classifier
- - Decision Tree Regressor 
- - KMeans
- - K-Neighbors Classifier
- - K-Neighbors Regressor
- - Linear Regression
- - Logistic Regression
- - MLP Regressor
- - Tensorflow
- - Random Forest
- - Gradient Boosted Decision Trees
- - SVM
+
+## Algorithms used
+
+- Decision Tree Classifier
+- Decision Tree Regressor
+- KMeans
+- K-Neighbors Classifier
+- K-Neighbors Regressor
+- Linear Regression
+- Logistic Regression
+- MLP Regressor
+- Tensorflow
+- Random Forest
+- Gradient Boosted Decision Trees
+- SVM
 
 ## Data Dimension Evaluation and Metrics
 
